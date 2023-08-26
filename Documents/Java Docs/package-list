@@ -1,0 +1,8 @@
+application.atds.admission
+application.atds.discharge
+application.atds.insurance
+application.atds.messenger
+application.atds.transfer
+application.atds.users
+application.atds.wards
+com.example.discoveryserver
